@@ -1,4 +1,3 @@
-<img width="671" height="539" alt="Screenshot 2026-07-25 203134" src="https://github.com/user-attachments/assets/f5032240-e48c-4cda-b9e1-948578fd0585" /># GroupDNA---WhatsApp-Analytics
 A WhatsApp group chat analytics tool built with pure Python Fundamentals - no pandas, no matplotlib, no regex. Parses chat exports and generates activity heatmaps, word frequency, response patterns, and personality archetypes for every member.
 
 **"Spotify Wrapped, but for your friend group."**
